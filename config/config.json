@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "gnas93YH",
+    "database": "booking_coach_ticket",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "gnas93YH",
+    "database": "booking_coach_ticket",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "gnas93YH",
+    "database": "booking_coach_ticket",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
